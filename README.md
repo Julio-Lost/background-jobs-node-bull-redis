@@ -4,7 +4,7 @@ Background jobs (filas) no Node.js com Bull
 
 ## Características
 
-O projeto consiste em demonstrar uma biblioteca fantástica chamada Bull que nos permite não só executar background tasks mas também monitorar falhas, realizar retentativas, adicionar prioridades e tudo isso de uma forma extremamente simples e performática..
+O projeto consiste em demonstrar uma biblioteca fantástica chamada Bull que nos permite não só executar background tasks mas também monitorar falhas, realizar retentativas, adicionar prioridades e tudo isso de uma forma extremamente simples e performática.
 
 ## Funcionalidades
 
