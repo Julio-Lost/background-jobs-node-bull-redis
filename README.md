@@ -31,6 +31,6 @@ O projeto conta com a `Api`, segue abaixo a demostração das funcionalidades ad
 
 - Tenha o NPM ou Yarn instalados.
 
-- Crie um arquivo .env com as credenciais de email e do Redis;
+- Crie um arquivo .env com as credenciais de email e do Redis.
 
 - Instale as dependências do projeto com o comando `npm install` ou `yarn install`.
